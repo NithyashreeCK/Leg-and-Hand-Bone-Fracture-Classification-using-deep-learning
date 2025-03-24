@@ -18,9 +18,6 @@ Frontend:
 HTML5, CSS3
 JavaScript & Bootstrap
 
-Database:
-SQLite
-
 Stores user data, image records, and classification results
 
 🚀 Features
